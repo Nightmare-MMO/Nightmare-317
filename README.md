@@ -1,6 +1,6 @@
-# Nightmare 317 Relaunch
+# About Nightmare 317
 
-Welcome to the official relaunch of **Nightmare 317** — a retro-inspired MMORPG project focused on bringing back classic online RPG gameplay with modern improvements, active development, and a dedicated community.
+Welcome to the official repository of **Nightmare 317** — a retro-inspired MMORPG project focused on bringing back classic online RPG gameplay with modern improvements, active development, and a dedicated community.
 
 Built for players who miss the golden era of MMORPGs, Nightmare 317 aims to deliver:
 
@@ -27,6 +27,7 @@ Download and follow the project here:
 
 ## Features
 
+* 🐧 FOSS under MIT / all assets are PUBLIC DOMAIN
 * ⚔️ Classic MMORPG combat
 * 🌎 Persistent online world
 * 🧙 Multiple classes and builds
